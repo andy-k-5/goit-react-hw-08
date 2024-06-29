@@ -1,0 +1,9 @@
+.link {
+  width: 500px;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
