@@ -6,7 +6,7 @@ export default function HomePage() {
       <PageTitle>
         Contact manager welcome page{""}
         <span role="img" aria-label="Greeting icon">
-          💁‍♀️
+          😎
         </span>
       </PageTitle>
       <p>
